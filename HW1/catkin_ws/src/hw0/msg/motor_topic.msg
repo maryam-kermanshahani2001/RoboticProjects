@@ -1,0 +1,2 @@
+int64 rotation
+bool clockwise

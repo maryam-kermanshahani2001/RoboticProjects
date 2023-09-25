@@ -1,0 +1,2 @@
+hw0
+-DCATKIN_DEVEL_PREFIX=/home/marmar/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/marmar/catkin_ws/install -G Unix Makefiles
